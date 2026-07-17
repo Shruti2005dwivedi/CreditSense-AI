@@ -31,7 +31,7 @@ The project demonstrates the complete machine learning lifecycle—from data pre
 - Real-world financial data
 
 > Note: Dataset files are not included in this repository because of their size. Download them from Kaggle and place them inside `data/raw/`.
-
+Run 02_data_preprocessing.ipynb to generate data/processed/application_train_cleaned.csv.
 ---
 
 ## Tech Stack
