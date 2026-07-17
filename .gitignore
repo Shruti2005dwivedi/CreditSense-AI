@@ -17,3 +17,7 @@ __pycache__/
 # Dataset
 data/raw/
 data/external/
+# Dataset
+data/raw/
+data/external/
+data/processed/
