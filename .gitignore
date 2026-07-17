@@ -21,3 +21,20 @@ data/external/
 data/raw/
 data/external/
 data/processed/
+# Virtual environment
+venv/
+
+# Data
+data/raw/
+data/processed/
+
+# Trained models
+models/*.pkl
+models/*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
