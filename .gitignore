@@ -38,3 +38,24 @@ __pycache__/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+artifacts/
+models/*.pkl
+models/*.joblib
+
+# Virtual environment
+venv/
+
+# Raw and processed data
+data/raw/
+data/processed/
+
+# Trained models
+models/*.pkl
+models/*.joblib
+
+# CatBoost logs
+catboost_info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
