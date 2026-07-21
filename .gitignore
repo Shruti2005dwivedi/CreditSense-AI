@@ -59,3 +59,6 @@ catboost_info/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+catboost_info/
+notebooks/catboost_info/
